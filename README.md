@@ -4,6 +4,11 @@ Enterprise Sales Cloud & RevOps Solution for Regional Grocery Distribution
 
 Salesforce Pathfinder Capstone Project | ReDI School Germany
 
+
+https://github.com/user-attachments/assets/79099e6f-80b4-48eb-a119-78aa8d71c444
+
+
+
 📌 Executive Overview
 
 Parker Pizza, a gourmet frozen pizza manufacturer, initiated a strategic transition from direct-to-consumer (B2C) sales into regional wholesale grocery distribution. B2B grocery procurement demands structured deal pipelines, complex margin tracking, sampling presentation sign-offs, and automated post-signing merchandising logistics.
